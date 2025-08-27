@@ -1,4 +1,4 @@
-# 🦟 Dengue Report Dashboard  
+# 🦟 Dengue Outbrake Report Analysis In Dhaka Dashboard
 
 ## 📖 Overview  
 This project delivers an **interactive Power BI dashboard** designed to analyze **dengue cases in the Dhaka District**.  
