@@ -1,7 +1,7 @@
 # 🦟 Dengue Outbrake Report Analysis In Dhaka Dashboard
 
 ## 📖 Overview  
-This project delivers an **interactive Power BI dashboard** designed to analyze **dengue cases in the Dhaka District**.  
+This project delivers an **interactive Excel dashboard** designed to analyze **dengue cases in the Dhaka District**.  
 It provides insights into patient demographics, area distribution, and hospital statistics, helping support **health monitoring and decision-making**.  
 
 ---
