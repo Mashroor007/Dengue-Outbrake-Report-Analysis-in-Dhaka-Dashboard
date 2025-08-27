@@ -22,8 +22,8 @@ It provides insights into patient demographics, area distribution, and hospital 
 ---
 
 ## ⚙️ Tools & Technologies  
-- **Power BI Desktop**  
-- **Data Modeling & Visualization**  
+- **Microsof Excel**  
+- **Pivot Table**  
 - **Healthcare/Disease Surveillance Data**  
 
 ---
