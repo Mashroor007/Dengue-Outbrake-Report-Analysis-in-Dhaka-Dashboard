@@ -22,7 +22,7 @@ It provides insights into patient demographics, area distribution, and hospital 
 ---
 
 ## ⚙️ Tools & Technologies  
-- **Microsof Excel**  
+- **Microsoft Excel**  
 - **Pivot Table**  
 - **Healthcare/Disease Surveillance Data**  
 
